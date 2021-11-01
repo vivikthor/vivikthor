@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vivikthor 🧙
 
-- 🚀 I’m interested in visual creation in any possible shape and form. 
-      If you are wondering tho, I’m graphic designer and web designer.
-- 🌱 Currently I’m learning back-end deveopment 
-- 📫 Check out Instagram (@vivikthor) to see some of my creations, photos and the people I workship
-      Also, in Spotify I’m @vivivikthor and there I organize my thoughts as playlists
+- 🚀 I’m interested in visual creation in any possible shape and form, I’m a graphic web designer.
+- 🌱 Currently I’m learning back-end development 
+- 📫 Check out my Instagram (@vivikthor) to see some of my creations, photos and the people I workship
+      Same, on Spotify where I organize my thoughts as playlists
       
 
 <!---

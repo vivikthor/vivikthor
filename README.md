@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @vivikthor 🧙
-
-- 🚀 I’m interested in visual creation in any possible shape and form, I’m a graphic web designer.
-- 🌱 Currently I’m learning back-end development 
-- 📫 I collect some of my creations, photos and the people I workship on Instagram.
-      Also on Spotify where I organize my thoughts as playlists hehe
+shroomjak
       
 
 
